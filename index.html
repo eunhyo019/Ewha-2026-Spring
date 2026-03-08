@@ -1,0 +1,10 @@
+<script>
+  window.addEventListener('load', () => {
+    const params = new URLSearchParams(window.location.search);
+    
+    if (params.get('load') === 'yes') {
+      window.location.replace('student-cards.html');
+    }
+  });
+</script>
+<H3>Welcome to Ewha Capston Design Class</H3>

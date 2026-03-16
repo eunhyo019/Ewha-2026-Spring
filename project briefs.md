@@ -10,7 +10,7 @@
 | [7](#team-7) | reverdir | 산학 | 게임형 독서 기록 서비스 |
 | [8](#team-8) | 하면된다 | 산학 | AI 기반 가격 검증과 정시 경매 시스템으로 정보 비대칭과 탐색 피로를 해결하는 빈티지 거래 플랫폼 |
 | [9](#team-9) | Cloud9 | 산학 | 퀀트 전략 실시간 상태 모니터링 및 이상 징후 탐지 시스템 |
-| [10](#team-10) | 212223 | 산학 | AI Tasker |
+| [10](#team-10) | 212223 | 산학 | 프롬프트 자동 최적화 기반 LLM API 비용 실시간 비교 웹 서비스 |
 | [11](#team-11) | 알고리듬 | 산학 |  SpeedSchedule: AI 기반 인력 운영 최적화를 위한 지능형 스케줄링 및 시프트 관리 웹 플랫폼 |
 | [12](#team-12) | 404 | 산학 | 여성 1인 여행자를 위한 세이프티 가이드 서비스 제공 시스템 |
 | [13](#team-13) | Semicolone; | 산학 | AI 자서전 |
@@ -220,7 +220,7 @@
 
 | 항목 | 내용 |
 |------|------|
-| 프로젝트명 | AI Tasker |
+| 프로젝트명 | 프롬프트 자동 최적화 기반 LLM API 비용 실시간 비교 웹 서비스 |
 | 서비스명(브랜드) | |
 | 트랙 | 산학 |
 | 팀명 | 212223 |
@@ -233,7 +233,7 @@
 | 기대 효과 | AI 사용성 계선 및 비용 감소 |
 | GitHub Repo | [https://github.com/0727n1122-beep/graduationproject/tree/main](https://github.com/0727n1122-beep/graduationproject/tree/main) |
 | Team Ground Rule | [Team Ground Rule](https://github.com/0727n1122-beep/graduationproject/blob/main/Team_Ground_Rule.md) |
-| 최종수정일 | 03.12 |
+| 최종수정일 | 03.16 |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 

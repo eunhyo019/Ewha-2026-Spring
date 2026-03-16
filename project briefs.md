@@ -137,7 +137,7 @@
 | 기대 효과 | 스토리 기반 접근을 통해 외국인과 국내 사용자 모두가 한국 역사를 쉽게 이해하고 실제 역사 장소를 체험하도록 유도하여 문화관광 참여도와 관광 활성화를 동시에 높이기 |
 | GitHub Repo | [https://github.com/greenfield-2026-capstone/greenfield-project](https://github.com/greenfield-2026-capstone/greenfield-project) |
 | Team Ground Rule | https://github.com/greenfield-2026-capstone/greenfield-project/blob/main/Team_Ground_Rule.md |
-| 최종수정일 | 2026.3.15 |
+| 최종수정일 | 2026.3.16 |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
